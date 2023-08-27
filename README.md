@@ -1,6 +1,10 @@
 # Hello! 
 
-My name is Akib Alvee and  I'm from Bangladesh, living in Sylhet. Currently, I'm studying in Shahjalal University of Science & Technology,Sylhet in the Computer Science and Engineering Department. I'm a big fan of **Data Science** . Everyday I'm learning new things in Data Science. Currently I'm working on my undergrad thesis titled with 'Underwater Image Enhancement' and another project titled with 'Named Entity Recognition'. And I'm always looking forward to collaborate on any open source project and also on interesting topic.
+As a highly skilled computer science and engineering student, I am passionate about developing innovative solutions using cutting-edge technologies. I specialize in web development using Django, NodeJS, and ReactJS, and have a strong background in database management with MySQL, postgreSQL, and MongoDB. My projects demonstrate my ability to build complex applications that solve real-world problems. I have also solved over 600 programming problems on various online judges, demonstrating my strong problem-solving abilities and competitive programming skills. Currently, I'm working as a Software Engineer in Samsung R&D Institute Bangladesh Ltd. 
+
+In my research, I am exploring the exciting field of underwater image enhancement. I am currently working on enhancing the visual aesthetics of underwater images using deep learning, and have already produced a draft comprehensive review paper on this topic.
+
+Aside from my technical skills, I was an active member of the SUST ACM student chapter, where I served as a creative executive and also I was the Class Representative of my class.
 
 <p align="center">
   <a href= "https://www.facebook.com/akib.alvee/" alt = 'Facebook'>Facebook</a>  ||
