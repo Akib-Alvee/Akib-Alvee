@@ -6,6 +6,7 @@ In my research, I am exploring the exciting field of underwater image enhancemen
 
 Aside from my technical skills, I was an active member of the SUST ACM student chapter, where I served as a creative executive and also I was the Class Representative of my class.
 
+<!--
 <p align="center">
   <a href= "https://www.facebook.com/akib.alvee/" alt = 'Facebook'>Facebook</a>  ||
   <a href= "https://www.linkedin.com/in/akib-alvee-2a947b185/" alt='linkedin'>LinkedIn</a>  ||
@@ -34,3 +35,4 @@ Aside from my technical skills, I was an active member of the SUST ACM student c
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/akib-alvee/count.svg" />
 </p>
+-->
