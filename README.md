@@ -1,10 +1,5 @@
-# Hello! 
+I'm  a Software Engineer currently working at Samsung R&D Institute Bangladesh. In my role, I've been deeply involved in projects like Samsung SmartThings and Samsung DeX, where I developed the live streaming pipeline using GStreamer and WebRTC framework and improved device connectivity between Android and Windows through socket programming. I graduated with a BSc (Engg.) in Computer Science and Engineering from Shahjalal University of Science & Technology (SUST). Aside from my technical skills, I was an active member of the SUST ACM student chapter, where I served as a creative executive and also was the class representative of my class.
 
-As a highly skilled computer science and engineering student, I am passionate about developing innovative solutions using cutting-edge technologies. I specialize in web development using Django, NodeJS, and ReactJS, and have a strong background in database management with MySQL, postgreSQL, and MongoDB. My projects demonstrate my ability to build complex applications that solve real-world problems. I have also solved over 600 programming problems on various online judges, demonstrating my strong problem-solving abilities and competitive programming skills. Currently, I'm working as a Software Engineer in Samsung R&D Institute Bangladesh Ltd. 
-
-In my research, I am exploring the exciting field of underwater image enhancement. I am currently working on enhancing the visual aesthetics of underwater images using deep learning, and have already produced a draft comprehensive review paper on this topic.
-
-Aside from my technical skills, I was an active member of the SUST ACM student chapter, where I served as a creative executive and also I was the Class Representative of my class.
 
 <!--
 <p align="center">
